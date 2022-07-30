@@ -11,4 +11,6 @@
 		8、git push -u origin main		  推送 （第一次加 -u  后面再推送可以不写
 		9、git push origin main 
 		
-	
+二、如何将github上面的姓名克隆下来
+	1、在一个文件位置 进去右击点击 Git bash here  进入命令栏
+	2、git clone https://github.com/pinleiwan/TheSecondProject.git   //url是github上分配的地址
