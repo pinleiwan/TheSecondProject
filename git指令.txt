@@ -3,7 +3,7 @@
 	2、在本地新建一个文件夹 TheFirstGit
 		1、进去右击点击 Git bash here  进入命令栏
 		2、git init 初始化
-		3、在TheFirstGit里面随便兴建一个文件 txt 
+		3、在TheFirstGit里面随便新建一个文件 txt 
 		4、git add . 提交到缓存区 . 代表所有的文件
 		5、git commit -m  "描述信息"
 		6、git remote add origin https://github.com/pinleiwan/TheSecondProject.git
