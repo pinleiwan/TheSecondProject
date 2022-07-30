@@ -1,0 +1,14 @@
+一、如何将本地的项目上传到github上面去
+	1、现在github上面创建一个空的仓  New repository
+	2、在本地新建一个文件夹 TheFirstGit
+		1、进去右击点击 Git bash here  进入命令栏
+		2、git init 初始化
+		3、在TheFirstGit里面随便兴建一个文件 txt 
+		4、git add . 提交到缓存区 . 代表所有的文件
+		5、git commit -m  "描述信息"
+		6、git remote add origin https://github.com/pinleiwan/TheSecondProject.git
+		7、git branch -M main             主分支重新命名 main
+		8、git push -u origin main		  推送 （第一次加 -u  后面再推送可以不写
+		9、git push origin main 
+		
+	
